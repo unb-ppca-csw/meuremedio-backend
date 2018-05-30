@@ -29,7 +29,7 @@ spring:
         type: com.zaxxer.hikari.HikariDataSource
         url: jdbc:mysql://xxx:3306/bd_meuremedio?useUnicode=true&characterEncoding=utf8&useSSL=false&reconnect=true        
         username: xxx
-        password: xxx        
+        password: xxx         
         hikari:
             data-source-properties:
                 cachePrepStmts: true
