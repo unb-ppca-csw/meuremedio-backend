@@ -1,0 +1,11 @@
+
+  ${AnsiColor.GREEN}███╗   ███╗███████╗██╗   ██╗${AnsiColor.RED} ██████╗ ███████╗███╗   ███╗███████╗██████╗ ██╗ ██████╗ 
+  ${AnsiColor.GREEN}████╗ ████║██╔════╝██║   ██║${AnsiColor.RED} ██╔══██╗██╔════╝████╗ ████║██╔════╝██╔══██╗██║██╔═══██╗
+  ${AnsiColor.GREEN}██╔████╔██║█████╗  ██║   ██║${AnsiColor.RED} ██████╔╝█████╗  ██╔████╔██║█████╗  ██║  ██║██║██║   ██║
+  ${AnsiColor.GREEN}██║╚██╔╝██║██╔══╝  ██║   ██║${AnsiColor.RED} ██╔══██╗██╔══╝  ██║╚██╔╝██║██╔══╝  ██║  ██║██║██║   ██║
+  ${AnsiColor.GREEN}██║ ╚═╝ ██║███████╗╚██████╔╝${AnsiColor.RED} ██║  ██║███████╗██║ ╚═╝ ██║███████╗██████╔╝██║╚██████╔╝
+  ${AnsiColor.GREEN}╚═╝     ╚═╝╚══════╝ ╚═════╝ ${AnsiColor.RED} ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝ ╚═════╝ 
+      
+                                                                                  
+${AnsiColor.BRIGHT_BLUE}:: Meu Remédio 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://www.meuremedio.net.br ::${AnsiColor.DEFAULT}                                                                                  
